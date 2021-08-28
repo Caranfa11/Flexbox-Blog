@@ -320,7 +320,18 @@ main{
     border-bottom: solid 3px #29c;
     border-bottom-left-radius: 2px;
     border-bottom-right-radius: 2px;
-    resize: none;
+}
+
+.form__data-button{
+    width: 100%;
+    background: linear-gradient(to bottom, rgb(67, 93, 209), #228);
+    color: rgb(253, 253, 255);
+    font-size: 15px;
+    font-weight: bold;
+    padding: 6px 0px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
 }
 
 .form__data:focus{
