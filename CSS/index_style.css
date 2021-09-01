@@ -308,6 +308,7 @@ main{
 
 .form__inputs textarea{
     max-height: 80px;
+    resize: none;
 }
 
 .form__data{
